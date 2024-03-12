@@ -3,14 +3,14 @@
 <img align="right" alt="Coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
 - 🔭 I’m currently working with the **Orcawise as a Data Scientist.**
-- 
+  
 - 🌱 I’m currently learning **all the amazing things one can achieve with data.**
 
 - 👨‍💻 All of my projects are available at [[https://github.com/krnbhtt.](https://krnbhtt.github.io/)]
 
 - 💬 Ask me about **my journey and interest in AI and how I transitioned from Computer Engineer to Data Science and analytics.**
 
-- 📫 How to reach me: mailto:**karanbhattofficial@gmail.com**
+- 📫 You can reach me on: **karanbhattofficial@gmail.com**
 
 <!-- I'm Open to Work -->
 <h3 align="left">I'm Open to Work</h3>
